@@ -65,7 +65,7 @@ echo ("Z Mortise Space => ", z_mortise_space);
  * 建立平面 DXF 檔
  *
  */
-
+/*
 base_board();
 //translate([outter_compensate, box_outter_length + board_thickness])
 //	base_board();
@@ -79,6 +79,7 @@ translate([outter_compensate, -(box_outter_height + board_thickness)])
 	face_board();
 //translate([outter_compensate, -(box_outter_height + board_thickness) * 2])
 //	face_board();
+*/
 
 // 建立底板
 /*
